@@ -45,5 +45,8 @@ Exemplo de Saída:
 
 Probabilidade de mais de 50% da população ser infectada: 84.30%
 
+![image](https://github.com/user-attachments/assets/47ea4c90-0be0-4128-8731-8f0eff082732)
+
+
 
 
